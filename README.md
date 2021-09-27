@@ -14,3 +14,6 @@ The challenge was to add the weather description to the weather data. Then, crea
 ## Travel Itinerary Map
 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/74462990/134980635-27102a25-110a-49af-b745-fdd5ac74b553.PNG)
+
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/74462990/134980801-a25bca20-45c6-4b6f-864d-c180b854eba0.PNG)
